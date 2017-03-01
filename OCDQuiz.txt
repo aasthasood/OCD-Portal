@@ -1,0 +1,36 @@
+Q1.	How much importance do you place on your feelings?
+   (1)	I don’t go by my feelings at all
+   (2)	I hardly ever go by my feelings
+   (3)  I go by my feelings sometimes
+   (4)  I go by my feelings a lot
+   (5)  I go by my feelings all the time
+Q2.	Do you prefer that things are meticulously organized, and feel unsafe or out of control when they aren’t?
+   (1)	No, it doesn’t matter
+   (2)	Yes, I prefer it, but it’s not that big of a deal
+   (3)	Yes, I like things when they are meticulously organized, but I can live with it if they aren’t
+   (4)	Yes, I like to have things meticulously organized
+   (5)	Yes, I have to have things (at least certain things) meticulously organized or I feel unsafe and out of control
+Q3.	Do you have difficulty making yourself feel safe?
+   (1)	No, I can make myself feel safe anytime
+   (2)	Yes, but not very often	
+   (3)	Yes, I sometimes have a hard time making myself feel safe
+   (4)	Yes, I often have a hard time making myself feel safe
+   (5)	Yes, I have a very hard time making myself feel safe
+Q4.	Do you feel compelled to do certain tasks or behaviors over and over again, or else something bad could happen?
+   (1)	No, not at all
+   (2)	Yes, but not that often
+   (3)	Yes, sometimes I feel better when I’ve done certain things enough
+   (4)	Yes, many things make me feel better when I do them enough
+   (5)	Yes, I feel I can protect myself (and others) if I do things right or enough times. It’s what I do!
+Q5.	Do you believe that your thoughts can influence the fate of others?
+   (1)	No, not at all
+   (2)	Yes, but not that much
+   (3)	Yes, but somewhat
+   (4)	Yes, to a large degree
+   (5)	Yes, absolutely
+Q6.	When you feel stressed or anxious, do you find yourself counting things, organizing things, or touching things a lot?
+   (1)	No, I don't
+   (2)	Yes, but not that often
+   (3)	Yes, sometimes
+   (4)	Yes, a lot of the time
+   (5)	Yes, all the time
